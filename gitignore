@@ -1,0 +1,15 @@
+# Database credentials
+db.properties
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Environment files
+.env
+
+# Logs
+*.log
